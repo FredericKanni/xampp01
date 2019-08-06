@@ -6,6 +6,8 @@
   <?php echo '<p>Bonjour</p>'; ?>
   <p>Bonjour. Vous souhaitez visiter <a href="https://openclassrooms.com">OpenClassrooms</a> ?<br />
 
+modification
+
 C'est un bon site ;o)</p>
 
 <h1>Ma grande page</h1>
